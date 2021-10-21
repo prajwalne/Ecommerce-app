@@ -1,0 +1,174 @@
+
+[
+  {
+    "name": "Potato",
+
+    "id": 1,
+
+    "price": 30,
+
+    "available": 1,
+
+    "vendor": "Himachal Pvt Ltd",
+
+     "category": "vegetables",
+      "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/potato.jpg?alt=media&token=cdfc1edc-7829-4237-9179-38b31e443df4"
+  },
+  {
+    "name": "Banana",
+
+    "id": 2,
+
+    "price": 50,
+
+    "available": 1,
+
+    "vendor": "Organic farms",
+
+     "category": "Fruits",
+      "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/banana.jpg?alt=media&token=539b2043-680a-4bac-a61d-afcef21d858a"
+  },
+   {
+    "name": "Tamarind ",
+
+    "id": 10,
+
+    "price": 50,
+
+    "available": 0,
+
+    "vendor": "Organic farms",
+
+     "category": "Fruits",
+      "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/Blueberry.jpg?alt=media&token=0426a62a-b09b-4424-938d-6db0df2e0a9a"
+  },
+   {
+    "name": "Mango",
+
+    "id": 11,
+
+    "price": 50,
+
+    "available": 0,
+
+    "vendor": "Organic farms",
+
+     "category": "Fruits",
+      "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/Mango.jpg?alt=media&token=88f23cc1-5179-496c-9264-6ab1752c10c0"
+  },
+   {
+    "name": "Pineapple",
+
+    "id": 12,
+
+    "price": 50,
+
+    "available": 0,
+
+    "vendor": "Organic farms",
+
+     "category": "Fruits",
+      "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/Pineapple.jpg?alt=media&token=3b098cd7-8afa-4a96-a5fb-f9e96b02fecc"
+  },
+  {
+    "name": "Cauliflower ",
+
+    "id": 3,
+
+    "price": 20,
+
+    "available": 0,
+
+    "vendor": "Mallikarjuna farms",
+
+     "category": "vegetables",
+      "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/cauliflower.jpg?alt=media&token=734522c7-1711-43a3-bbe2-a2a7d84fcca2"
+  },
+  {
+    "name": "Orange",
+
+    "id": 4,
+
+    "price": 25,
+
+    "available": 1,
+
+    "vendor": "Nagpur farms",
+
+     "category": "Fruits",
+      "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/Blueberry.jpg?alt=media&token=0426a62a-b09b-4424-938d-6db0df2e0a9a"
+  },
+    {
+    "name": "Apricot",
+
+    "id": 5,
+
+    "price": 70,
+
+    "available": 0,
+
+    "vendor": "Maklena Gardens",
+
+     "category": "Fruits",
+      "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/Apricot.jpg?alt=media&token=d6ebc523-6193-4073-88fe-76cb2d5d4fe5"
+  },
+    {
+    "name": "Blueberry ",
+
+    "id": 6,
+
+    "price": 100,
+
+    "available": 1,
+    
+
+    "vendor": "Rajput Naturals",
+
+     "category": "Fruits",
+     "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/Blueberry.jpg?alt=media&token=0426a62a-b09b-4424-938d-6db0df2e0a9a"
+     
+  },
+    {
+    "name": "Corn ",
+
+    "id": 7,
+
+    "price": 40,
+
+    "available": 1,
+
+    "vendor": "Bhopal Vegetables",
+
+     "category": "vegetables",
+      "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/corn.jpg?alt=media&token=45886a57-28a8-4089-836c-1575b769c503"
+  },
+    {
+    "name": "Capsicum ",
+
+    "id": 8,
+
+    "price": 40,
+
+    "available": 1,
+
+    "vendor": "Green Life Garden",
+
+     "category": "vegetables",
+      "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/capsicum.jpg?alt=media&token=cc05e356-276f-4842-ac91-dfaaacbaf7ab"
+  },
+    {
+    "name": "Carrot",
+
+    "id": 9,
+
+    "price": 70,
+
+    "available": 1,
+
+    "vendor": "Bhopal Vegetables",
+
+     "category": "vegetables",
+      "image":"https://firebasestorage.googleapis.com/v0/b/chatx-1507f.appspot.com/o/carrots.jpg?alt=media&token=512c060e-7293-4eb4-8f54-9daa78a23769"
+  }
+
+]
